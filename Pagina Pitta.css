@@ -23,7 +23,7 @@ box-sizing:border-box;
    
    .header{
 	 height:100vh;
-     background-image: linear-gradient(to top, rgba(253, 203, 241, 0.26) 0%, rgba(253, 203, 241, 0.322) 1%, rgba(230, 222, 233, 0.397) 100%), url(../Examen/Imagenes/yo\ 2.JPG);
+     background-image: linear-gradient(to top, rgba(253, 203, 241, 0.26) 0%, rgba(253, 203, 241, 0.322) 1%, rgba(230, 222, 233, 0.397) 100%), url(https://pitta1895.github.io/mipaginapitta1895/Imagenes/yo\ 2.JPG);
 	 background-repeat:no-repeat;
 	 background-size: cover;
 	 background-attachment: fixed;
